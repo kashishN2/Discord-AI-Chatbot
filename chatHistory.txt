@@ -1,0 +1,4 @@
+user:[hello]
+assistant:dude, what's up?
+user:[what is your name?]
+assistant:Dude, my name is Assistant. How can I help you today?
